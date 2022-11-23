@@ -5,9 +5,9 @@ function Def (html) {
             <head>
                 <title>Title</title>
             </head>
-            <bpdy>
+            <body>
                 {html.children}
-            </bpdy>
+            </body>
         </html>
     )
 }
